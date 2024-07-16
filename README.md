@@ -84,24 +84,23 @@
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Language and skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-| Category        | Skills        |
-|-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img>  
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img
-<img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white" /> <img> |
-| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img  src="https://img.shields.io/badge/SQlite3-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Competitive Coding | <a href="https://leetcode.com/u/I2ir8m5phZ/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/user/apurban7fzj/"><img> 
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter Notebook-000000?style=for-the-badge&logo=jupyter notebook&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img>  |
-| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img  <a href="https://canva.com/Apurba-Nag/"><img src="https://img.shields.io/badge/Canva-EA4C89?style=for-the-badge&logo=Canva&logoColor=white" /></a> |
-| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
-  
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
-
 <h1 align="center">Projects</h1>
+
 
 ### 💼 Budget-Tracker
 A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
@@ -146,15 +145,15 @@ A Python application to manage bank accounts with functionalities like creating 
 
   
   <br>
-  <a href="https://leetcode.com/u/Priyangshu53/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
-  <a href="https://www.geeksforgeeks.org/user/priyangshuuu21/"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
-  <a href="https://www.coursera.org/user/849d5582c2ab8a79896dbcc5f19f926a"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <a href="https://leetcode.com/u/I2ir8m5phZ/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://www.geeksforgeeks.org/user/apurban7fzj/"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
+  <a href="https://www.coursera.org/user/3e1f8b42567af7335eae62e103eaa0f5"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
    
   <br> 
  
-  <a href="https://www.linkedin.com/in/priyangshu-roy53/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:priyangshuuu53@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
+  <a href="https://www.linkedin.com/in/apurba-nag-088748221/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:apurbnanag@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="@ApurbaNag2244" ></a>
   
 </div>
 
@@ -172,10 +171,10 @@ A Python application to manage bank accounts with functionalities like creating 
 
 <!-- activity graph heroku-app end -->
 <p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3APriyangshu+Roy+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyangshu53&theme=github_dark&utcOffset=4"  width="31%"  productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3APriyangshu-Roy+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyangshu53&theme=github&utcOffset=4"  width="31%"  productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3APriyangshu-Roy+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyangshu53&theme=github_dark&hide_border=true"  width="64%" profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3APriyangshu-Roy+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyangshu53&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AApurba+Nag+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ApurbaNag&theme=github_dark&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AApurba-Nag+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ApurbaNag&theme=github&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AApurba-Nag+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApurbaNag&theme=github_dark&hide_border=true"  width="64%" profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AApurba-Nag+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApurbaNag&theme=github&hide_border=true"  width="64%" alt="@Apurba's profile-details"/></a>
 </p>
 
 
@@ -185,6 +184,6 @@ A Python application to manage bank accounts with functionalities like creating 
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1050" img>
