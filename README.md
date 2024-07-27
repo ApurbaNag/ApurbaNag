@@ -17,9 +17,9 @@
 <div align="center">
 <br><br>
   <a href="https://apurbanag.odoo.com/"><img src="https://img.shields.io/badge/Oddo-d5d5d5?style=for-the-badge&logo=Oddo&logoColor=0A0209" alt="profile of Dev.to with username ApurbaNag" /></a>
-<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+
   <a href="https://www.linkedin.com/in/apurba-nag-088748221/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username ApurbaNag" /></a>
-  <a href="mailto:apurbanag2244@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Priyangshu i.e.   apurbanag2244@gmail.com" /></a>
+  <a href="mailto:apurbanag2244@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Apurba i.e.   apurbanag2244@gmail.com" /></a>
 
   <a href="https://x.com/ApurbaNag2244"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username @ApurbaNag2244" ></a>
 </div>
