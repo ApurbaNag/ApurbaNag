@@ -1,8 +1,9 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Apurba+Nag's+GitHub+Profile)](https://git.io/typing-svg)
    <a href="#"><img width="28%" height="auto" align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif" /></a>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbanag&label=Profile%20views&color=0e75b6&style=flat" alt="apurbanag" /> </p>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="60px" align="center">
-   >**The best performance improvement is the transition from the nonworking state to the working state.✨**
+   The best performance improvement is the transition from the nonworking state to the working state.✨
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
