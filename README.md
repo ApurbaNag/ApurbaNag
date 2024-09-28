@@ -34,14 +34,14 @@
 
 <i>&nbsp; Building solutions with open source.</i> <br><br>
 
-👋 Hi! I'm Apurba Nag, a Software developer from India, super into Open Source.
+👋 Hi! I'm Apurba Nag, a Software developer from India.
 
 
 🎓 &nbsp; As a student of  Narula Institute of Technology (CSE). 
 
 🤝 &nbsp; I have learned a lot about the Open Source ecosystem.
 
-😄 &nbsp; I participate in making side projects :)
+😄 &nbsp; I have participated in making side projects :)
   
 </div>
 
